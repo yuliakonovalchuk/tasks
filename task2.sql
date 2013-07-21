@@ -10,8 +10,8 @@ PRIMARY KEY (Id_user) );
 
 CREATE TABLE cards (
 Id_card int (10) NOT NULL,
-сolor_card varchar (20) NOT NULL,
-тame_country varchar (20) NOT NULL,
+color_card varchar (20) NOT NULL,
+name_country varchar (20) NOT NULL,
 PRIMARY KEY (ID_card) );
 
 CREATE TABLE country (
